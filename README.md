@@ -7,4 +7,4 @@ Source Code
 
 The Source Code for the tools I used to generate the data for my thesis can be found here:
 
-[https://github.com/empathic-code](/empathic-code)
+[https://github.com/empathic-code](https://github.com/empathic-code)
