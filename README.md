@@ -7,19 +7,20 @@ Thesis
 
 My thesis is available in PDF here:
 
-[http://files.cessor.de/thesis.pdf](http://files.cessor.de/thesis.pdf)
+[Download - Influence of identifier length and semantics on the comprehensibility of source code](http://files.cessor.de/thesis.pdf)
 
 Data
 ----
 
 The data are too messy to be published yet, stay tuned.
+I am currently thinking of a way to make the analysis interactive.
 
 Source Code
 -----------
 
 The Source Code for the tools I used to generate the data for my thesis can be found here:
 
-[https://github.com/empathic-code](https://github.com/empathic-code)
+[Empathic Code - Overview](https://github.com/empathic-code)
 
  - [Data Acquisition Client "Peter"](https://github.com/empathic-code/weasel-keeper): The web application I used to obtain the data for my study
  - [Antwort DSL](https://github.com/empathic-code/antwort): A DSL I used to prototype my HTML Questionnaires
