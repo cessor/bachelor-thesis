@@ -12,8 +12,8 @@ My thesis is available in PDF here:
 Data
 ----
 
-The data are too messy to be published yet, stay tuned.
-I am currently thinking of a way to make the analysis interactive.
+The results can be downloaded here:
+[https://github.com/brains-on-code/shorter-identifier-names](https://github.com/brains-on-code/shorter-identifier-names)
 
 Source Code
 -----------
