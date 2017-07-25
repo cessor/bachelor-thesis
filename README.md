@@ -7,7 +7,7 @@ Thesis
 
 My thesis is available in PDF here:
 
-[Download - Influence of identifier length and semantics on the comprehensibility of source code](http://files.cessor.de/thesis.pdf)
+[Download - Influence of identifier length and semantics on the comprehensibility of source code](thesis.pdf)
 
 Data
 ----
